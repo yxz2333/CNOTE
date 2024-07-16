@@ -54,6 +54,8 @@ $\displaystyle \sum_{i=1}^{N-1}\sum_{j=i+1}^N f(A_i, A_j)$
 
 <br>
 
+## 代码实现
+
 ```cpp
 const int N = 3e5 + 20;
 const ll M = 1e8;
