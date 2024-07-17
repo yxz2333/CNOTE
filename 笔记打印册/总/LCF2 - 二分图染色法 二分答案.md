@@ -125,5 +125,4 @@ void solve()
     cout << l << endl;
     return;
 }
-
 ```
